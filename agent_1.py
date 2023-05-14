@@ -1,10 +1,11 @@
 
 import random
-
+# Importing other files
 import algorithm as a
 import constants as c
 import graph_operations as g
 
+#Agent 1 function
 def agent_1():
     is_alive = True
     is_win = False
