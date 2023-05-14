@@ -4,6 +4,7 @@ import algorithm as a
 import constants as c
 import graph_operations as g
 
+
 #Function 1
 def agent_1():
     is_alive = True
